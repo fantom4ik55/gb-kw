@@ -365,6 +365,6 @@ mysql> SELECT h.Name, h.Birthday, h.Commands, pa.Genus_name, ya.Age_in_month
     -> LEFT JOIN home_animals ha ON ha.Id = hm.Genus_id;
 
 ```
-# 13. Создать [класс с Инкапсуляцией методов и наследованием по диаграмме]( ).
+# 13. Создать [класс с Инкапсуляцией методов и наследованием по диаграмме]( https://github.com/fantom4ik55/gb-kw/blob/main/Main.java).
 
  
